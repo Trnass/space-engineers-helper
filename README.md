@@ -1,11 +1,16 @@
 # Space Engineers Helper (version)
-## About Project
-If you found this project, you are probably Space Engineer and there is no point of explaining you what Space Engineers actually is... We started this project right after release of SE2, but there is no survival yet, so we started playing SE1 together again. You know that situation, you are building some kind of solar farm, base upgrade or any kind of vehicle, you have opened Excel on second monitor or you are playing with keyboard, mouse, paper and pen. You want to calculate every thing that you can, you have to plan material production for every block, but you can not add every item into **build planner**. 
-So here you are, you found open source project that allows you to add every block that is actually in game into list of your build, you can multiply that build or you can just add some more... This tool is here to help you plan production of exact amount of steel plates, battery cells etc..
-Do you want to build a mining ship, but you are not sure if it will fly? Well, we are planing to add this tool too, it will count you how many thrusters you need to add to the ship, but this is future...
+## About the Project
+If you found this project, you are probably a Space Engineer, so there is no need to explain what Space Engineers actually is. We started this project right after the release of SE2, but since there is no survival mode yet, we decided to play SE1 together again.
+
+You know the situation: you’re building a solar farm, upgrading your base, or designing a new vehicle. You have Excel open on your second monitor, or you’re calculating things manually with a keyboard, mouse, paper, and pen. You want to plan every detail, calculating the exact amount of materials needed for every block. However, you can’t add every item to the Build Planner.
+
+Well, here you are—you found an open-source project that allows you to add every block currently available in the game to your build list. You can duplicate your builds or modify them as needed. This tool helps you plan the exact number of steel plates, battery cells, and other materials required for your constructions.
+
+Do you want to build a mining ship but aren’t sure if it will fly? We’re planning to add a tool for that as well! It will calculate how many thrusters your ship needs. But that’s for the future…
 ## Develop project with us!
-It's open source, you can download dockerfile and the project, build it and run it on your machine. You can add API endpoints and add mods to game GUI, like, there are no bad ideas, just the good one and the better one. 
-We are using React.js on the front end and the Python FastAPI on the backend, for the database we are using MariaDB.
+This is an open-source project! You can download the Dockerfile, build the project, and run it on your machine. You can also contribute by adding API endpoints or integrating mods into the game’s GUI. There are no bad ideas—just good ones and even better ones!
+
+We’re using React.js for the frontend, Python FastAPI for the backend, and MariaDB as the database.
 ## Changelog
 *nothing but crickets*
 *chirp chirp*
